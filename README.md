@@ -52,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> 
+> https://oscah01.github.io/leaderboard/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
